@@ -6,6 +6,6 @@ given list.
 This script use the RollingCurlX PHP classe shared by [marcushat](https://github.com/marcushat).
 You can find the repository here : https://github.com/marcushat/RollingCurlX
 
-We wish you enjoy using this script.
+We hope you enjoy using this script.
 
 [Team-Ever](https://www.team-ever.com)
